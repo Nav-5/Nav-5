@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nav-5
-- 👀 I’m an Machine Learning enthusiast .
-- 🌱 I’m currently learning ML Basics on Coursera .
+- 👀 A Tech Passionate .
+- 🌱 I’m currently learning on Coursera .
 
 
 <!---
